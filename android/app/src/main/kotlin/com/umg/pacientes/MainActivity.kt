@@ -1,0 +1,6 @@
+package com.umg.pacientes
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
